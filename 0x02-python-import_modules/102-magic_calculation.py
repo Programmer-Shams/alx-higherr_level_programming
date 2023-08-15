@@ -9,4 +9,3 @@ def magic_calculation(a, b):
         return c  # Removed unnecessary parentheses
     else:
         return sub(a, b)
-
